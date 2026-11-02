@@ -2,14 +2,14 @@
 
 # Tokira Privacy Notice
 
-Version 1 · Effective September 30, 2026
+Version 2 · Effective November 2, 2026
 
 ## In thirty seconds
 
-- Your patients, medications, treatments, doses and notes are stored **only on your phone**. Tokira has no
+- Your pets, their medications, treatments, doses and notes are stored **only on your phone**. Tokira has no
   account and no server of its own, and I cannot see them.
 - **Only if you agree**, Tokira sends Google crash reports and data about how you use the app. The names of your
-  patients, your medications and your notes are never sent. You can turn it off any time in Settings.
+  pets, their medications and your notes are never sent. You can turn it off any time in Settings.
 - In most countries nothing is sent at all, and the app does not even ask.
 - If you want what was sent deleted, or have any question, write to me at **zerovivanco.it@gmail.com**.
 
@@ -26,9 +26,9 @@ I handle requests about your data myself. There is no separate department.
 
 ## 2. What Tokira does with your data
 
-Tokira is a medication reminder. What you write in it (who your patients are, which medications they take, at
-what times, which doses you logged and which notes you left) is stored in your phone's memory and never leaves
-it. Tokira asks for no account, has no server of its own and uploads that information nowhere.
+Tokira is a medication reminder for pets. What you write in it (which pets you have, which medications they
+get, at what times, which doses you logged and which notes you left) is stored in your phone's memory and never
+leaves it. Tokira asks for no account, has no server of its own and uploads that information nowhere.
 
 That means:
 
@@ -36,13 +36,14 @@ That means:
 - If you change phones, the information does not travel with the app.
 - If you uninstall Tokira, the information is deleted with it and cannot be recovered.
 
-## 3. Health data
+## 3. What you record is about your pet
 
-What you record about medications and doses is information about your health, or that of the people you care
-for or your pets. The law treats it as **sensitive personal data**. That is why Tokira handles it in the simplest
-way there is: it does not collect it. It stays on your phone and is never sent to Google or anyone.
+Tokira only records the medication of animals. What you write about medications and doses describes your pet's
+health, not any person's: Tokira has nowhere to record a treatment of yours or of anyone else, and it processes
+no health data about people. Even so, what you record stays on your phone and is never sent to Google or
+anyone.
 
-If you care for someone else, you decide what you record about them. Tokira shares it with nobody.
+If you care for someone else's pet, you decide what you record about it. Tokira shares it with nobody.
 
 ## 4. What is sent, only if you agree
 
@@ -60,17 +61,18 @@ even if the app crashes. You can say yes to everything, no to everything, or cho
 
 ### Usage data
 
-- **What is sent**: which screens you open; whether reminders arrive on time on your phone; whether you log your doses on
-  time, late or snooze them; whether a treatment is for you, for someone else or for a pet; how many patients
-  and treatments you have, in ranges ("2 to 3", "4 to 6"); and which system permissions the app has.
-- **What is not sent**: never the name of a patient, a medication or a treatment, nor your notes, nor the exact time of a
-  dose. Each value travels as a word from a closed list or as a range, never as text you wrote.
+- **What is sent**: which screens you open; whether reminders arrive on time on your phone; whether you log the doses on
+  time, late or snooze them; the species of the pet of each treatment (dog, cat, rabbit… or "other"); how many
+  pets and treatments you have, in ranges ("2 to 3", "4 to 6"); and which system permissions the app has.
+- **What is not sent**: never the name of a pet, a medication or a treatment, nor the breed, nor a species you wrote in
+  your own words, nor your notes, nor the exact time of a dose. Each value travels as a word from a closed list
+  or as a range, never as text you wrote.
 - **What it is for**: to learn what works and what does not, and decide what to improve.
 - **Who receives it**: Google, through Google Analytics for Firebase.
 
-Bear in mind that, even without saying which medication you take, usage data does say that you use a medication
-app and how regularly you log your doses. Out of caution I treat it as if it were health data, which is why it is
-only sent with your express consent.
+Usage data says that you use a pet medication app and how regularly you log their doses. It describes neither
+your health nor any person's. Even so, it is only sent with your express consent: that is how Tokira is built,
+and how it will stay.
 
 ### What Google adds on its own
 
@@ -132,8 +134,7 @@ encrypted. No system is infallible; that is why what is sent is the minimum and 
 
 ## 11. Minors
 
-Tokira is for adults. An adult may record in it the medications of a minor in their care; that information stays
-on the phone like everything else.
+Tokira is for adults.
 
 ## 12. Changes to this notice
 
@@ -141,10 +142,9 @@ Each version of this notice has a number and a date, and earlier versions stay p
 what is sent, to whom or why, Tokira asks you again inside the app and sends nothing until you answer. Changes of
 wording are announced on this page.
 
-## 13. Tokira is not medical advice
+## 13. Tokira is not veterinary advice
 
-Tokira reminds. It does not prescribe, does not review your doses and does not replace a healthcare
-professional.
+Tokira reminds. It does not prescribe, does not review the doses and does not replace your vet.
 
 ## Annex A · Mexico
 
@@ -152,8 +152,8 @@ This notice is issued under the Ley Federal de Protección de Datos Personales e
 (2025).
 
 - **Controller and address**: those of section 1.
-- **Data processed**: only that of section 4, and only with your express consent. Usage data is treated as
-  sensitive personal data out of caution. No other data of the app leaves your phone.
+- **Data processed**: only that of section 4, and only with your express consent. None of it is sensitive
+  personal data: it describes how you use the app, never your health. No other data of the app leaves your phone.
 - **Purposes**: fixing bugs and improving the app. There are no secondary purposes.
 - **ARCO rights**: you may access, rectify, cancel or object to the processing, and revoke your consent, by
   writing to zerovivanco.it@gmail.com with the identifiers the app shows. You get an answer within 20 business
@@ -167,12 +167,14 @@ This notice is issued under the Ley Federal de Protección de Datos Personales e
 
 ## Annex B · United States
 
-This annex is the consumer health data privacy policy required by the laws of the states of Washington and
-Nevada, and applies to anyone who uses Tokira in the United States.
+The laws of the states of Washington and Nevada require a consumer health data privacy policy from apps that
+process data about a person's health. Tokira records only the medication of animals, and what it sends
+describes no person's health; even so, out of caution, this annex is kept for anyone who uses Tokira in the
+United States.
 
-- **Categories of consumer health data**: whether you log your doses on time, late or snooze them; whether a
-  treatment is for you, for someone else or for a pet; how many treatments you have, in ranges. Never which
-  medication or what for.
+- **Data that could be read as consumer health data**: whether you log the doses on time, late or snooze them;
+  the species of the pet; how many treatments you have, in ranges. Never which medication or what for, and
+  never anything about a person.
 - **Sources**: only what you do inside the app.
 - **Purposes**: fixing bugs and improving the app.
 - **Disclosures**: to Google, as a provider that processes it on my behalf. To nobody else.

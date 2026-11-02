@@ -2,14 +2,14 @@
 
 # Aviso de privacidad de Tokira
 
-Versión 1 · Vigente desde el 30 de septiembre de 2026
+Versión 2 · Vigente desde el 2 de noviembre de 2026
 
 ## En treinta segundos
 
-- Tus pacientes, medicamentos, tratamientos, tomas y notas se guardan **solo en tu teléfono**. Tokira no tiene
-  cuenta ni servidor propio, y yo no puedo verlos.
+- Tus mascotas, sus medicamentos, tratamientos, tomas y notas se guardan **solo en tu teléfono**. Tokira no
+  tiene cuenta ni servidor propio, y yo no puedo verlos.
 - **Solo si lo aceptas**, Tokira le envía a Google informes de fallos y datos sobre cómo usas la app. Nunca se
-  envían los nombres de tus pacientes, tus medicamentos ni tus notas. Puedes apagarlo cuando quieras en Ajustes.
+  envían los nombres de tus mascotas, sus medicamentos ni tus notas. Puedes apagarlo cuando quieras en Ajustes.
 - En la mayoría de los países no se envía nada y la app ni siquiera lo pregunta.
 - Si quieres que se borre lo que se envió, o tienes cualquier duda, escríbeme a **zerovivanco.it@gmail.com**.
 
@@ -26,9 +26,10 @@ Yo mismo atiendo las solicitudes sobre tus datos; no hay un departamento aparte 
 
 ## 2. Qué hace Tokira con tus datos
 
-Tokira es un recordatorio de medicamentos. Lo que escribes en ella (quiénes son tus pacientes, qué medicamentos
-toman, a qué horas, qué tomas marcaste y qué notas dejaste) se guarda en la memoria de tu teléfono y no sale de
-ahí. Tokira no pide cuenta, no tiene servidor propio y no sube esa información a ningún sitio.
+Tokira es un recordatorio de medicamentos para mascotas. Lo que escribes en ella (qué mascotas tienes, qué
+medicamentos reciben, a qué horas, qué tomas marcaste y qué notas dejaste) se guarda en la memoria de tu
+teléfono y no sale de ahí. Tokira no pide cuenta, no tiene servidor propio y no sube esa información a ningún
+sitio.
 
 Eso significa que:
 
@@ -36,13 +37,14 @@ Eso significa que:
 - Si cambias de teléfono, la información no viaja con la app.
 - Si desinstalas Tokira, la información se borra con ella y no se puede recuperar.
 
-## 3. Datos de salud
+## 3. Lo que registras es de tu mascota
 
-Lo que registras sobre medicamentos y tomas es información sobre la salud tuya, de las personas que cuidas o de
-tus mascotas. La ley la considera **dato personal sensible**. Por eso Tokira la trata de la forma más simple que
-existe: no la recoge. Se queda en tu teléfono y nunca se envía a Google ni a nadie más.
+Tokira solo registra la medicación de animales. Lo que anotas sobre medicamentos y tomas describe la salud de
+tu mascota, no la de ninguna persona: Tokira no tiene dónde registrar un tratamiento tuyo ni de nadie más, y
+no trata ningún dato de salud de personas. Aun así, lo que registras se queda en tu teléfono y nunca se envía a
+Google ni a nadie más.
 
-Si cuidas a otra persona, tú decides qué registras de ella. Tokira no lo comparte con nadie.
+Si cuidas a la mascota de otra persona, tú decides qué registras de ella. Tokira no lo comparte con nadie.
 
 ## 4. Lo que se envía, solo si lo aceptas
 
@@ -60,18 +62,19 @@ nada**, ni siquiera si la app falla. Puedes decir que sí a todo, que no a nada,
 
 ### Datos de uso
 
-- **Qué se envía**: qué pantallas abres; si los recordatorios llegan a su hora en tu teléfono; si marcas tus tomas a
-  tiempo, tarde o las pospones; si el tratamiento es para ti, para otra persona o para una mascota; cuántos
-  pacientes y tratamientos tienes, en rangos («2 a 3», «4 a 6»); y qué permisos del sistema tiene la app.
-- **Qué no se envía**: nunca se envía el nombre de un paciente, de un medicamento o de un tratamiento, ni tus
-  notas, ni la hora exacta de una toma. Cada dato viaja como una palabra de una lista cerrada o como un rango,
-  nunca como texto que hayas escrito.
+- **Qué se envía**: qué pantallas abres; si los recordatorios llegan a su hora en tu teléfono; si marcas las dosis a
+  tiempo, tarde o las pospones; de qué especie es la mascota de cada tratamiento (perro, gato, conejo… u
+  «otra»); cuántas mascotas y tratamientos tienes, en rangos («2 a 3», «4 a 6»); y qué permisos del sistema
+  tiene la app.
+- **Qué no se envía**: nunca se envía el nombre de una mascota, de un medicamento o de un tratamiento, ni la raza,
+  ni la especie que escribiste con tus palabras, ni tus notas, ni la hora exacta de una toma. Cada dato viaja
+  como una palabra de una lista cerrada o como un rango, nunca como texto que hayas escrito.
 - **Para qué sirve**: para saber qué funciona y qué no, y decidir qué mejorar.
 - **Quién lo recibe**: Google, a través de Google Analytics para Firebase.
 
-Ten en cuenta que, aunque no digan qué medicamento tomas, los datos de uso sí revelan que usas una app de
-medicación y con qué regularidad marcas tus tomas. Por prudencia los trato como si fueran datos de salud, y por
-eso solo se envían con tu consentimiento expreso.
+Los datos de uso dicen que usas una app de medicación para mascotas y con qué regularidad marcas sus dosis. No
+describen tu salud ni la de ninguna persona. Aun así, solo se envían con tu consentimiento expreso: así está
+hecha Tokira, y así seguirá.
 
 ### Lo que Google añade por su cuenta
 
@@ -134,8 +137,7 @@ tuyo.
 
 ## 11. Menores de edad
 
-Tokira es para personas adultas. Un adulto puede registrar en ella los medicamentos de un menor a su cargo;
-esa información se queda en el teléfono como todo lo demás.
+Tokira es para personas adultas.
 
 ## 12. Cambios a este aviso
 
@@ -143,9 +145,9 @@ Cada versión de este aviso tiene un número y una fecha, y las versiones anteri
 cambio afecta a qué se envía, a quién o para qué, Tokira te lo vuelve a preguntar dentro de la app y no envía
 nada hasta que respondas. Los cambios de redacción se anuncian en esta página.
 
-## 13. Tokira no es consejo médico
+## 13. Tokira no es consejo veterinario
 
-Tokira recuerda. No receta, no revisa tus dosis y no sustituye a un profesional de la salud.
+Tokira recuerda. No receta, no revisa las dosis y no sustituye a tu veterinario.
 
 ## Anexo A · México
 
@@ -153,8 +155,8 @@ Este aviso se emite conforme a la Ley Federal de Protección de Datos Personales
 (2025).
 
 - **Responsable y domicilio**: los del punto 1.
-- **Datos que se tratan**: únicamente los del punto 4, y solo con tu consentimiento expreso. Los datos de uso se
-  tratan como datos personales sensibles por prudencia. Ningún otro dato de la app sale de tu teléfono.
+- **Datos que se tratan**: únicamente los del punto 4, y solo con tu consentimiento expreso. Ninguno es un dato
+  personal sensible: describen cómo usas la app, nunca tu salud. Ningún otro dato de la app sale de tu teléfono.
 - **Finalidades**: corregir fallos y mejorar la app. No hay finalidades secundarias.
 - **Derechos ARCO**: puedes acceder, rectificar, cancelar u oponerte al tratamiento, y revocar tu
   consentimiento, escribiendo a zerovivanco.it@gmail.com con los identificadores que muestra la app. Tienes
@@ -168,12 +170,14 @@ Este aviso se emite conforme a la Ley Federal de Protección de Datos Personales
 
 ## Anexo B · Estados Unidos
 
-Este anexo es la política de datos de salud del consumidor que exigen las leyes de los estados de Washington y
-Nevada, y aplica a cualquier persona que use Tokira en Estados Unidos.
+Las leyes de los estados de Washington y Nevada exigen una política de datos de salud del consumidor a las
+apps que tratan datos sobre la salud de una persona. Tokira registra únicamente la medicación de animales, y
+lo que envía no describe la salud de ninguna persona; aun así, por prudencia, este anexo se mantiene para
+cualquier persona que use Tokira en Estados Unidos.
 
-- **Categorías de datos de salud del consumidor**: si marcas tus tomas a tiempo, tarde o las pospones; si el
-  tratamiento es para ti, para otra persona o para una mascota; cuántos tratamientos tienes, en rangos. Nunca
-  qué medicamento ni para qué.
+- **Datos que podrían leerse como datos de salud del consumidor**: si marcas las dosis a tiempo, tarde o las
+  pospones; de qué especie es la mascota; cuántos tratamientos tienes, en rangos. Nunca qué medicamento ni para
+  qué, y nunca nada sobre una persona.
 - **Fuentes**: solo lo que haces dentro de la app.
 - **Finalidades**: corregir fallos y mejorar la app.
 - **A quién se comunican**: a Google, como proveedor que los procesa por encargo mío. A nadie más.

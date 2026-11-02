@@ -2,7 +2,7 @@
 
 # How to delete your Tokira data
 
-Tokira is a medication reminder, developed and published by one person, Edgar Vivanco. This page explains what
+Tokira is a medication reminder for pets, developed and published by one person, Edgar Vivanco. This page explains what
 data exists, what you can delete yourself and how to ask me to delete what was sent. It is a summary of the
 [privacy notice](../../en/); if you have a question this page does not answer, the notice does.
 
@@ -16,17 +16,17 @@ data exists, what you can delete yourself and how to ask me to delete what was s
 
 ## What is on your phone
 
-Your patients, medications, treatments, doses and notes are stored **only on your phone**. Tokira has no
+Your pets, their medications, treatments, doses and notes are stored **only on your phone**. Tokira has no
 account and no server of its own, so I cannot see them or delete them. You do not need to write to me for that:
 
-- Edit or delete any patient, treatment or dose inside the app.
+- Edit or delete any pet, treatment or dose inside the app.
 - If you uninstall Tokira, everything it stored is deleted with it and cannot be recovered.
 
 ## What was sent, if you agreed
 
 The first time you use Tokira, it asks whether you want to help improve it. Only if you said yes does the app
 send Google crash reports and data about how you use it, filed under identifiers of your installation. The
-names of your patients, your medications and your notes are never sent. To delete what was sent:
+names of your pets, their medications and your notes are never sent. To delete what was sent:
 
 1. Open **Settings → Privacy** in Tokira.
 2. Tap **Request deletion**. The app writes an email to zerovivanco.it@gmail.com with your identifiers, and at
@@ -39,8 +39,8 @@ and, where it applies, carry out the deletion within the following 15 days.
 
 ## What is deleted and what is kept
 
-- **Usage data** (which screens you open, whether you mark your doses on time, how many treatments you have, in
-  ranges): I delete it in Google Analytics as soon as I handle your request. If you never ask, it is deleted on
+- **Usage data** (which screens you open, whether you log the doses on time, the species of each pet, how many
+  treatments you have, in ranges): I delete it in Google Analytics as soon as I handle your request. If you never ask, it is deleted on
   its own after **14 months**.
 - **Crash reports** (where the app closed, your phone model, the Android and Tokira versions): they are deleted
   on their own in Firebase after **90 days**. When you stop sharing, the app retires the identifier they were
